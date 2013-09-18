@@ -15,7 +15,7 @@
         });
         FB.Canvas.setAutoGrow();
     </script>
-    <div id="wrapper-1">
+<!--    <div id="wrapper-1">-->
         <div id="wrapper-2">
             <header>
                 <h1>
@@ -105,6 +105,6 @@
                 <br style="clear: both" />
             </footer>
         </div>
-    </div>
+<!--    </div>-->
 </body>
 </html>
