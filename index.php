@@ -23,7 +23,7 @@
 
                 <div class="video-wrapper">
                     <!--<img src="images/video.jpg" class="img-2" alt="">-->
-                    <iframe width="749" height="402" src="//www.youtube.com/embed/7qko_J6f8rw?rel=0" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="749" height="402" src="//www.youtube.com/embed/LiP7LP_lwqc?rel=0" frameborder="0" allowfullscreen></iframe>
                 </div>
             </header>
             <div id="secondary">
@@ -35,12 +35,12 @@
 				<a class="a-5" href="http://www.yahoo.com">5</a>
 			</div>-->
                 <h2>Show Info</h2>
-                <aside class="aside-1">
+                <!--<aside class="aside-1">
                     <h3>MONA VALE HOTEL</h3>
                     <time>20 Sept 2013, 8pm</time>
                     <p>Alchemy Music Group, Premier Artists and Kingdom Sounds Present: LARYKAN w/ Vegas Aces, Baskiat, Nonne MC & Jason Matts. Tickets on sale from Oztix</p>
                     <a class="a-2" href="http://tickets.oztix.com.au/default.aspx?Event=37906" target="_blank">BUY TICKETS</a>
-                </aside>
+                </aside>-->
                 <aside class="aside-2">
                     <h3>OXFORD ART FACTORY</h3>
                     <time>26 Sept 2013, 8pm</time>
